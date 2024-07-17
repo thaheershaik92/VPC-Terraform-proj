@@ -15,7 +15,7 @@ This project focuses on automating the setup of a Virtual Private Cloud (VPC) on
 - [License](#license)
 
 ## Architecture Diagram
-![AWS Terraform VPC Setup](https://drive.google.com/file/d/1enW4ahBKOV8N1S7L6Cu24AiCovLqz3fe/view?usp=sharing)
+![AWS Terraform VPC Setup](https://drive.google.com/file/d/1A4_OeAnVNRRkEgvfgJzG5ZNr6RySyw6p/view?usp=sharing)
 
 ## Prerequisites
 - [Terraform](https://www.terraform.io/downloads.html) v1.0.0+
