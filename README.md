@@ -5,14 +5,8 @@ This project focuses on automating the setup of a Virtual Private Cloud (VPC) on
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Architecture Diagram](#architecture-diagram)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-- [Terraform Configuration](#terraform-configuration)
-- [Usage](#usage)
-- [Outputs](#outputs)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 - [Terraform](https://www.terraform.io/downloads.html) v1.0.0+
