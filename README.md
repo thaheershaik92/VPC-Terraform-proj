@@ -14,9 +14,6 @@ This project focuses on automating the setup of a Virtual Private Cloud (VPC) on
 - [Contributing](#contributing)
 - [License](#license)
 
-## Architecture Diagram
-(https://drive.google.com/file/d/1P_wCebdyMKoZJy9tbER6oksCffScImui/view?usp=sharing)
-
 ## Prerequisites
 - [Terraform](https://www.terraform.io/downloads.html) v1.0.0+
 - AWS Account
